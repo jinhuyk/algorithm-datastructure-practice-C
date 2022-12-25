@@ -1,6 +1,6 @@
 # Algorithm-DataStructure-Practice-C
 
-## 🖥 알고릐즘과 자료구조 연습
+## 🖥 알고리즘과 자료구조 연습
 
 Algorithm-DataStructure-Practic
 
